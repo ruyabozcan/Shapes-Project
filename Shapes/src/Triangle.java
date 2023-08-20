@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 public class Triangle extends Shape{
@@ -36,3 +40,7 @@ public class Triangle extends Shape{
         return base * 3;
     }
 }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
