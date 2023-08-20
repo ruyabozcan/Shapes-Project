@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 public class Test {
@@ -56,3 +60,6 @@ public class Test {
         System.out.printf("%s %.2f %n","Cevre:",triangle.calculateCircumference());
     }
 }
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
