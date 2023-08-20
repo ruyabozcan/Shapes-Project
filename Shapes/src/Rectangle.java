@@ -1,6 +1,7 @@
 // RÜYA BOZCAN
 // COMPUTER ENGINEERING 
 // ABU
+
 package com.company;
 
 public class Rectangle extends Shape{
@@ -39,3 +40,6 @@ public class Rectangle extends Shape{
         return 2 * (height + width);
     }
 }
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
